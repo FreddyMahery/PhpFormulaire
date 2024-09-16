@@ -1,0 +1,2 @@
+mail :akama@gmail.com
+mdp: 123456
